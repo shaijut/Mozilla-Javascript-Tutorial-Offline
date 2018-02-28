@@ -22,4 +22,5 @@ Encourage contribution to fix the missing part in the doc so this can help other
 
 ## License
 
-About MDN by Mozilla Contributors is licensed under CC-BY-SA 2.5.
+[About MDN](https://developer.mozilla.org/en-US/docs/MDN/About) by Mozilla Contributors is licensed under [CC-BY-SA 2.5.](https://creativecommons.org/licenses/by-sa/2.5/)
+
